@@ -1,4 +1,4 @@
-# geopython-storm-workshop
+# the geopython storm workshop example code
 
 
 to set up please follow instructions on:
